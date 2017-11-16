@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/pcvolkmer/json-canparse.svg?branch=master)](https://travis-ci.org/pcvolkmer/json-canparse)
+
 # json-canparse
 
 > Checks if string can be parsed with JSON
